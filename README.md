@@ -30,8 +30,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Sharad's GitHub Stats](https://github-readme-stats.anuraghazra1.workers.dev/api?username=technicalsahilkushwah-beep&show_icons=true&theme=radial)
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=technicalsahilkushwah-beep&layout=compact&theme=radial)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=technicalsahilkushwah-beep&theme=react-dark)
 
 ## 📬 Connect With Me
 - 📧 Email: technicalsahilkushwah@gmail.com
