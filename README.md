@@ -7,8 +7,8 @@
 ## 💫 About Me
 - 🎓 Full Stack Web Development Student
 - 🏙️ Based in Gwalior, Madhya Pradesh
-- 💻 Tech Stack: JavaScript, TypeScript, React, HTML, CSS
-- 🤖 Building AI Bots & Web Applications
+- 💻 Tech Stack: JavaScript, TypeScript, React.js, Next.js, HTML, CSS, Tailwindcss, Vercel_AI_SDK
+- 🤖 Building AI based Web Apps like :- RagChatBot, agents, searchAgents, PDF_CheckAgent etc... & Web Applications
 
 ---
 
