@@ -30,7 +30,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=technicalsahilkushwah-beep&theme=react-dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=technicalsahilkushwah-beep&theme=radial)
 
 ## 📬 Connect With Me
 - 📧 Email: technicalsahilkushwah@gmail.com
