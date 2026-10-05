@@ -30,7 +30,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Sharad's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=technicalsahilkushwah-beep&show_icons=true&theme=radial)
+![Sharad's GitHub Stats](https://github-readme-stats.anuraghazra1.workers.dev/api?username=technicalsahilkushwah-beep&show_icons=true&theme=radial)
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=technicalsahilkushwah-beep&layout=compact&theme=radial)
 
 ## 📬 Connect With Me
